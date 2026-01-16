@@ -1,0 +1,8 @@
+{
+  "name": "Solo",
+  "description": "A high-end professional mentorship platform for commerce students, blending MBA expertise, CEO insights, and career coaching into a seamless learning experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
